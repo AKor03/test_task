@@ -1,0 +1,4 @@
+class CrawlerConfig:
+    REQUEST_RETRIES = 5
+    REQUEST_DELAY = 30
+    REQUEST_TIMEOUT = 15
